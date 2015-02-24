@@ -1,0 +1,9 @@
+*.~
+__pycache__/
+*.py[cod]
+env/
+pip-log.txt
+pip-delete-this-directory.txt
+cache
+output
+.doit.db
