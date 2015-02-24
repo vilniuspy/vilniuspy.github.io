@@ -7,3 +7,4 @@ pip-delete-this-directory.txt
 cache
 output
 .doit.db
+.DS_Store
