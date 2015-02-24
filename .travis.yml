@@ -1,0 +1,25 @@
+language: python
+python:
+    - "2.7"
+branches:
+    only:
+        - source
+env:
+    global:
+        - secure: "MU9KEc5mD2LGINA1s6aVmDT9fdB7QuP1PeTlh+6MW4jCI4icBlKQONLtSkSi1FM9DRgnPiVSL/NepFZJ6YrSaTge71RyJHmXr5NOzSmBDYI/DvAXCpgzpjS03Jwmy9M99lQMorMzbpQCTcPqDggdSR+AqCR3pUCNq8ogSaz2uuw="
+install: pip install -r requirements.txt
+before_script:
+    - pushd output
+    - git checkout master
+    - git pull origin master
+    - popd
+script: nikola build
+after_script:
+    - pushd output
+    - git status
+    - git add --all
+    - git config --global user.email "pybot@vilniuspy.lt"
+    - git config --global user.name "Vilnius PyBot"
+    - git commit -m "VilniusPy build $(date '+%m/%d/%y %H:%M')"
+    - git push "$REPO_URL" master | grep -v http
+    - popd
