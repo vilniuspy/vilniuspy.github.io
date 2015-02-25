@@ -12,7 +12,7 @@ Hi there!
 
 This is the beginnings of a Vilnius Python user group.
 
-We have created a `meetup group`_ and plan to hold monthly gatherings with talks snacks.
+We have created a `meetup group`_ and plan to hold monthly gatherings with talks and snacks.
 
 Please stay tuned for the announcement our first meetup.
 

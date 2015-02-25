@@ -1,10 +1,10 @@
 .. title: Contact
 .. slug: contact
 .. date: 2015-02-24 23:45:24 UTC+02:00
-.. tags: 
-.. category: 
-.. link: 
-.. description: 
+.. tags:
+.. category:
+.. link:
+.. description:
 .. type: text
 
 Contact
