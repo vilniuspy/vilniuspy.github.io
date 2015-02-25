@@ -7,7 +7,7 @@ branches:
 env:
     global:
         - secure: "MU9KEc5mD2LGINA1s6aVmDT9fdB7QuP1PeTlh+6MW4jCI4icBlKQONLtSkSi1FM9DRgnPiVSL/NepFZJ6YrSaTge71RyJHmXr5NOzSmBDYI/DvAXCpgzpjS03Jwmy9M99lQMorMzbpQCTcPqDggdSR+AqCR3pUCNq8ogSaz2uuw="
-install: pip install -r requirements.txt
+install: travis_retry pip install -r requirements.txt
 before_script:
     - pushd output
     - git checkout master
