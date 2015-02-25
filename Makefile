@@ -5,9 +5,6 @@ PIP = $(PYBIN)/pip
 NIKOLA = $(PYBIN)/nikola
 
 
-.PHONY: all
-all: $(ENV)/.done
-
 .PHONY: environ
 environ: $(ENV)/.done
 
