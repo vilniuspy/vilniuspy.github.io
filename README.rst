@@ -8,11 +8,13 @@ Setup
 -----
 It is assumed that you are running Linux or OSX with Python, virtualenv and make installed.
 
-To initialize local development environment just run `make`:
-.. code-block:: bash
+To initialize local development environment just run make:
+
+.. code:: bash
 
     make
     make new_post  # create a new post from template
     make new_page  # create a new page from template
     make serve  # start local server
     make check  # verify links in posts are correct
+
