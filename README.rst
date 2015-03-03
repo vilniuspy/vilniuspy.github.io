@@ -6,7 +6,7 @@ Contributions are welcome, fork and open a pull request.
 
 Setup
 -----
-It is assumed that you are running Linux or OSX with Python, virtualenv and make installed.
+Requires python, virtualenv and make. Note that **default branch is source**, not master.
 
 To initialize local development environment run make:
 
