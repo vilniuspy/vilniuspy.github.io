@@ -13,8 +13,8 @@ future topics and dates after the talks. Wix has kindly offered to host us!
 
 **Talks**:
 
+- Saulius Žemaitaitis - Python: a multipurpose snake
 - Mantas Zimnickas - asyncio
-- TBA - want to talk about something interesting? This is your spot! Let us now at info@vilniuspy.lt
 
 
 Register at `meetup.com/vilniuspy/ <http://www.meetup.com/vilniuspy/events/220890657/>`_.
