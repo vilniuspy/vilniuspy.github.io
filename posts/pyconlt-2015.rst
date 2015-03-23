@@ -1,4 +1,4 @@
-.. title: PyConLT 2015
+.. title: PyCon LT 2015
 .. slug: pyconlt-2015
 .. date: 2015-03-23 14:30:49 UTC+02:00
 .. tags:
@@ -10,7 +10,7 @@
 PyCon LT 2015 has been announced!
 
 Annual Lithuanian Python conference PyConLT will be held on April 25th
-VU MIF lecture hall 102, Naugarduko 24, Vilnius.
+at VU MIF lecture hall 102, Naugarduko 24, Vilnius.
 
 Conference starts at 11:00, language: Lithuanian.
 
