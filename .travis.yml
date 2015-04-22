@@ -23,3 +23,5 @@ after_script:
     - git commit -m "VilniusPy build $(date '+%m/%d/%y %H:%M')"
     - git push "$REPO_URL" master | grep -v http
     - popd
+notifications:
+    slack: uglt:j73ZEGA1aIYTn3MZGXroBbsd
