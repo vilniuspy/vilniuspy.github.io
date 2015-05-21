@@ -18,4 +18,6 @@ need to register in advance.
 
 After-party at bar "Šnekutis", Šv. Mikalojaus g. 15.
 
+Register at `meetup.com/vilniuspy/ <http://www.meetup.com/vilniuspy/events/221993217/>`_
+
 .. _info@vilniuspy.lt: mailto:info@vilniuspy.lt
