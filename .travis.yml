@@ -23,7 +23,7 @@ after_script:
     - git config --global user.email "pybot@vilniuspy.lt"
     - git config --global user.name "Vilnius PyBot"
     - git commit -m "VilniusPy build $(date '+%m/%d/%y %H:%M')"
-    - git push "$REPO_URL" master | grep -v http
+    - travis_retry git push "$REPO_URL" master | grep -v http
     - popd
 cache:
     directories:
