@@ -7,7 +7,7 @@
 .. description:
 .. type: text
 
-VilniusPy #3 will be held on June 30th at the new POV office
+VilniusPy #3 will be held on June 30th, 19:00 at the new POV office
 (`V. Kudirkos g. 6A, Vilnius <https://www.google.com/maps/place/V.+Kudirkos+g.+6,+Vilnius+03105,+Lithuania>`_).
 
 This time Mantas Zimnickas will talk about `Ansible`_ - a versatile IT automation tool
