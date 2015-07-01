@@ -14,5 +14,5 @@ Slides from VilniusPy #3 meetup about ansible:
 Thanks to Mantas for the talk and to all who attended for a great time.
 
 We are looking for speakers for the `4th VilniusPy meetup <http://www.meetup.com/vilniuspy/events/223602957/>`_
-which will happen on July 23rd. If you have an idea fr a talk drop us a line at
+which will happen on July 23rd. If you have an idea for a talk drop us a line at
 `info@vilniuspy.lt <mailto:info@vilniuspy.lt>`_ and we'll set you up.
