@@ -27,6 +27,6 @@ new_page: environ
 check: environ
 	$(NIKOLA) check -l
 
-.PHONY: serve
+.PHONY: auto
 auto: environ
-	$(NIKOLA) auto
+	PATH=$(PYBIN):$(PATH) $(NIKOLA) auto
