@@ -1,6 +1,7 @@
 VilniusPy Website
 =================
-[![Build Status](https://travis-ci.org/vilniuspy/vilniuspy.github.io.svg?branch=master)](https://travis-ci.org/vilniuspy/vilniuspy.github.io)
+.. image:: https://travis-ci.org/vilniuspy/vilniuspy.github.io.svg?branch=master
+    :target: https://travis-ci.org/vilniuspy/vilniuspy.github.io
 
 This is the source of `vilniuspy.lt <http://vilniuspy.lt>`_ website, built using `Nikola <http://getnikola.com/>`_ static site generator.
 
