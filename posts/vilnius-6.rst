@@ -1,5 +1,5 @@
-.. title: VilniusPy #6
-.. slug: vilniuspy-6
+.. title: VilniusPy #6: The Return
+.. slug: vilniuspy-6-the-return
 .. date: 2017-02-15 11:06:28 UTC+03:00
 .. tags: meetup announcement
 .. category:
