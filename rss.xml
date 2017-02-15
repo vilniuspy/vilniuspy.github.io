@@ -1,5 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>VilniusPy</title><link>http://vilniuspy.lt/</link><description>Vilnius Python community website.</description><atom:link href="http://vilniuspy.lt/rss.xml" type="application/rss+xml" rel="self"></atom:link><language>en</language><lastBuildDate>Mon, 17 Aug 2015 09:43:59 GMT</lastBuildDate><generator>http://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>VilniusPy #5: Summer drinkup</title><link>http://vilniuspy.lt/posts/vilniuspy-5-summer-drinkup.html</link><dc:creator>VilniusPy</dc:creator><description>&lt;div&gt;&lt;p&gt;This time we'll meet for beverages at Šnekutis bar in Šv. Mikalojaus street.
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>VilniusPy</title><link>http://vilniuspy.lt/</link><description>Vilnius Python community website.</description><atom:link href="http://vilniuspy.lt/rss.xml" type="application/rss+xml" rel="self"></atom:link><language>en</language><lastBuildDate>Wed, 15 Feb 2017 09:16:11 GMT</lastBuildDate><generator>http://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>VilniusPy #6</title><link>http://vilniuspy.lt/posts/vilniuspy-6.html</link><dc:creator>VilniusPy</dc:creator><description>&lt;div&gt;&lt;p&gt;Hi fellow Python Charmers,&lt;/p&gt;
+&lt;p&gt;We are excited to announce that after over a year long break VilniusPy is back!&lt;/p&gt;
+&lt;div class="section" id="agenda"&gt;
+&lt;h2&gt;Agenda&lt;/h2&gt;
+&lt;ol class="arabic simple"&gt;&lt;li&gt;&lt;strong&gt;“Why learn Python in 2017?” (EN) Karolis Ramanauskas&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;&lt;p&gt;Karolis Ramanauskas will be giving a semi-motivational talk about why today is a great time to learn Python. He will give an overview of the current state of the language, its application areas, and in the end will discuss Python’s future.&lt;/p&gt;
+&lt;ol class="arabic simple" start="2"&gt;&lt;li&gt;&lt;strong&gt;“Python - the last language you’ll need to learn” (EN) Justas Trimailovas&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;&lt;p&gt;A more technical walkthrough about Python’s extensive standard library and great ecosystem of third party libraries.&lt;/p&gt;
+&lt;ol class="arabic simple" start="3"&gt;&lt;li&gt;&lt;strong&gt;Continue the meetup at a nearby bar for open discussion&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;&lt;/div&gt;
+&lt;div class="section" id="where"&gt;
+&lt;h2&gt;Where?&lt;/h2&gt;
+&lt;p&gt;Thanks UBER for letting us host the meeting in their Vilnius office at Lvovo st. 25, 8th floor.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="when"&gt;
+&lt;h2&gt;When?&lt;/h2&gt;
+&lt;p&gt;March 15th, 19:00&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="invite-for-speakers"&gt;
+&lt;h2&gt;Invite for speakers&lt;/h2&gt;
+&lt;div class="system-message"&gt;
+&lt;p class="system-message-title"&gt;System Message: WARNING/2 (&lt;tt class="docutils"&gt;&amp;lt;string&amp;gt;&lt;/tt&gt;, line 28)&lt;/p&gt;
+&lt;p&gt;Title underline too short.&lt;/p&gt;
+&lt;pre class="literal-block"&gt;
+Invite for speakers
+--------
+&lt;/pre&gt;
+&lt;/div&gt;
+&lt;p&gt;Want to give a talk at VilniusPy? Contact organisers at &lt;a class="reference external" href="mailto:info@vilniuspy.lt"&gt;info@vilniuspy.lt&lt;/a&gt;, “Contact” button to the left or #vilniuspy channel on UserGroups slack!&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="registration"&gt;
+&lt;h2&gt;Registration&lt;/h2&gt;
+&lt;div class="system-message"&gt;
+&lt;p class="system-message-title"&gt;System Message: WARNING/2 (&lt;tt class="docutils"&gt;&amp;lt;string&amp;gt;&lt;/tt&gt;, line 32)&lt;/p&gt;
+&lt;p&gt;Title underline too short.&lt;/p&gt;
+&lt;pre class="literal-block"&gt;
+Registration
+--------
+&lt;/pre&gt;
+&lt;/div&gt;
+&lt;p&gt;Registration at &lt;a class="reference external" href="https://www.meetup.com/vilniuspy/events/237721907/"&gt;meetup.com/vilniuspy&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;</description><category>meetup announcement</category><guid>http://vilniuspy.lt/posts/vilniuspy-6.html</guid><pubDate>Wed, 15 Feb 2017 08:06:28 GMT</pubDate></item><item><title>VilniusPy #5: Summer drinkup</title><link>http://vilniuspy.lt/posts/vilniuspy-5-summer-drinkup.html</link><dc:creator>VilniusPy</dc:creator><description>&lt;div&gt;&lt;p&gt;This time we'll meet for beverages at Šnekutis bar in Šv. Mikalojaus street.
 We won't have any formal talks this time as everyone's busy enjoying remaining days of summer.&lt;/p&gt;
 &lt;p&gt;Nevertheless everyone's invited to bring their tales from the trenches and share
 new tools and techniques they've learned over the summer.&lt;/p&gt;
@@ -47,7 +88,4 @@ future topics and dates after the talks. Wix has kindly offered to host us!&lt;/
 &lt;p&gt;&lt;strong&gt;Talks&lt;/strong&gt;:&lt;/p&gt;
 &lt;ul class="simple"&gt;&lt;li&gt;Saulius Žemaitaitis - Python: a multipurpose snake&lt;/li&gt;
 &lt;li&gt;Mantas Zimnickas - asyncio&lt;/li&gt;
-&lt;/ul&gt;&lt;p&gt;Register at &lt;a class="reference external" href="http://www.meetup.com/vilniuspy/events/220890657/"&gt;meetup.com/vilniuspy/&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;</description><guid>http://vilniuspy.lt/posts/vilniuspy-1-lets-talk-python.html</guid><pubDate>Wed, 04 Mar 2015 10:53:01 GMT</pubDate></item><item><title>We're up!</title><link>http://vilniuspy.lt/posts/were-up.html</link><dc:creator>VilniusPy</dc:creator><description>&lt;div&gt;&lt;p&gt;Hi there!&lt;/p&gt;
-&lt;p&gt;This is the beginnings of a Vilnius Python user group.&lt;/p&gt;
-&lt;p&gt;We have created a &lt;a class="reference external" href="http://www.meetup.com/vilniuspy"&gt;meetup group&lt;/a&gt; and plan to hold monthly gatherings with talks and snacks.&lt;/p&gt;
-&lt;p&gt;Please stay tuned for the announcement our first meetup.&lt;/p&gt;&lt;/div&gt;</description><guid>http://vilniuspy.lt/posts/were-up.html</guid><pubDate>Tue, 24 Feb 2015 22:18:20 GMT</pubDate></item></channel></rss>
+&lt;/ul&gt;&lt;p&gt;Register at &lt;a class="reference external" href="http://www.meetup.com/vilniuspy/events/220890657/"&gt;meetup.com/vilniuspy/&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;</description><guid>http://vilniuspy.lt/posts/vilniuspy-1-lets-talk-python.html</guid><pubDate>Wed, 04 Mar 2015 10:53:01 GMT</pubDate></item></channel></rss>
