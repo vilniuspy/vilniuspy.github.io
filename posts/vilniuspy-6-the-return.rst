@@ -34,9 +34,9 @@ When?
 March 15th, 19:00
 
 Invite for speakers
-------------------------
-Want to give a talk at VilniusPy? Contact organisers at info@vilniuspy.lt, “Contact” button to the left or #vilniuspy channel on UserGroups slack!
+-------------------------------------------------
+Want to give a talk at VilniusPy? Contact organisers at `info@vilniuspy.lt <mailto:info@vilniuspy.lt/>`_, “Contact” button to the left or #vilniuspy channel on UserGroups slack!
 
 Registration
-----------------
+-------------------------------------
 Registration at `meetup.com/vilniuspy <https://www.meetup.com/vilniuspy/events/237721907/>`_.
