@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>VilniusPy (meetup announcement)</title><link>http://vilniuspy.lt/</link><description></description><atom:link href="http://vilniuspy.lt/categories/meetup-announcement.xml" type="application/rss+xml" rel="self"></atom:link><language>en</language><lastBuildDate>Wed, 15 Feb 2017 09:19:01 GMT</lastBuildDate><generator>http://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>VilniusPy #6: The Return</title><link>http://vilniuspy.lt/posts/vilniuspy-6-the-return.html</link><dc:creator>VilniusPy</dc:creator><description>&lt;div&gt;&lt;p&gt;Hi fellow Python Charmers,&lt;/p&gt;
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>VilniusPy (meetup announcement)</title><link>http://vilniuspy.lt/</link><description></description><atom:link href="http://vilniuspy.lt/categories/meetup-announcement.xml" type="application/rss+xml" rel="self"></atom:link><language>en</language><lastBuildDate>Wed, 15 Feb 2017 09:21:38 GMT</lastBuildDate><generator>http://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>VilniusPy #6: The Return</title><link>http://vilniuspy.lt/posts/vilniuspy-6-the-return.html</link><dc:creator>VilniusPy</dc:creator><description>&lt;div&gt;&lt;p&gt;Hi fellow Python Charmers,&lt;/p&gt;
 &lt;p&gt;We are excited to announce that after over a year long break VilniusPy is back!&lt;/p&gt;
 &lt;div class="section" id="agenda"&gt;
 &lt;h2&gt;Agenda&lt;/h2&gt;
@@ -19,25 +19,9 @@
 &lt;/div&gt;
 &lt;div class="section" id="invite-for-speakers"&gt;
 &lt;h2&gt;Invite for speakers&lt;/h2&gt;
-&lt;div class="system-message"&gt;
-&lt;p class="system-message-title"&gt;System Message: WARNING/2 (&lt;tt class="docutils"&gt;&amp;lt;string&amp;gt;&lt;/tt&gt;, line 28)&lt;/p&gt;
-&lt;p&gt;Title underline too short.&lt;/p&gt;
-&lt;pre class="literal-block"&gt;
-Invite for speakers
---------
-&lt;/pre&gt;
-&lt;/div&gt;
 &lt;p&gt;Want to give a talk at VilniusPy? Contact organisers at &lt;a class="reference external" href="mailto:info@vilniuspy.lt"&gt;info@vilniuspy.lt&lt;/a&gt;, “Contact” button to the left or #vilniuspy channel on UserGroups slack!&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="registration"&gt;
 &lt;h2&gt;Registration&lt;/h2&gt;
-&lt;div class="system-message"&gt;
-&lt;p class="system-message-title"&gt;System Message: WARNING/2 (&lt;tt class="docutils"&gt;&amp;lt;string&amp;gt;&lt;/tt&gt;, line 32)&lt;/p&gt;
-&lt;p&gt;Title underline too short.&lt;/p&gt;
-&lt;pre class="literal-block"&gt;
-Registration
---------
-&lt;/pre&gt;
-&lt;/div&gt;
 &lt;p&gt;Registration at &lt;a class="reference external" href="https://www.meetup.com/vilniuspy/events/237721907/"&gt;meetup.com/vilniuspy&lt;/a&gt;.&lt;/p&gt;
 &lt;/div&gt;&lt;/div&gt;</description><category>meetup announcement</category><guid>http://vilniuspy.lt/posts/vilniuspy-6-the-return.html</guid><pubDate>Wed, 15 Feb 2017 08:06:28 GMT</pubDate></item></channel></rss>
