@@ -11,7 +11,7 @@ Return of VilniusPy was a tremendous success. More than 70 people came to listen
 
 If you want to see those slides again or you've missed the meetup you can review them here:
 
-- `Karolis Ramanauskas - Why learn python in 2017 <https://drive.google.com/file/d/0B7jHGiOhxCw5SXJoZ09fdDdqU0U/view>`_
+- `Karolis Ramanauskas - Why learn python in 2017 <https://www.slideshare.net/KarolisRamanauskas1/why-learn-python-in-2017>`_
 - `Justas Trimailovas - Python: the last language you'll need to learn <http://trimailov.com/presentations/#/>`_
 
 Thank you all for attending.
