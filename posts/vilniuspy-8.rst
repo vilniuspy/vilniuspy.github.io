@@ -1,6 +1,6 @@
 .. title: VilniusPy #8: Asynchronous WebSockets
 .. slug: vilniuspy-8-asynchronous-websockets
-.. date: 2017-05-08 14:09:28 UTC+03:00
+.. date: 2017-05-08 14:08:28 UTC+03:00
 .. tags: meetup announcement
 .. category:
 .. link:
