@@ -19,7 +19,7 @@ Agenda
 
 Albertas Gimbutas will introduce the concept of Asynchronous WebSockets. Then he will review the functionality of the Django channels package and will show a short example how can it be used in practice.
 
-2 . **“GraphQL - Better way to build your API” (EN) Jaro Šatkevic**
+2. **“GraphQL - Better way to build your API” (EN) Jaro Šatkevic**
 
 Jaro Šatkevič will introduce GraphQL, go over its main concepts and why it’s better than REST for modern web and mobile. He will then show how you can build a GraphQL API in Python, including practical advice and things to watch out for.
 
