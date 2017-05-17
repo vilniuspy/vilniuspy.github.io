@@ -19,7 +19,7 @@ Agenda
 
 Albertas Gimbutas will introduce the concept of Asynchronous WebSockets. Then he will review the functionality of the Django channels package and will show a short example how can it be used in practice.
 
-2 . **“Building Brains - Parallelisation strategies of large-scale deep learning neural networks on parallel scale out architectures like ApacheSpark” (EN) Romeo Kienzler**
+2. **“Building Brains - Parallelisation strategies of large-scale deep learning neural networks on parallel scale out architectures like ApacheSpark” (EN) Romeo Kienzler**
 
 Abstract of the talk provided by Romeo:
 
