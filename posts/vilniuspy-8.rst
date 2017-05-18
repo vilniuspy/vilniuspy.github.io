@@ -1,5 +1,5 @@
-.. title: VilniusPy #8: Asynchronous WebSockets
-.. slug: vilniuspy-8-asynchronous-websockets
+.. title: VilniusPy #8: Asynchronous WebSockets and Deep Learning
+.. slug: vilniuspy-8-asynchronous-websockets-deep-learning
 .. date: 2017-05-08 14:08:28 UTC+03:00
 .. tags: meetup announcement
 .. category:
