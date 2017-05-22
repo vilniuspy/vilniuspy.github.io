@@ -7,7 +7,7 @@
 .. description:
 .. type: text
 
-The last meetup attracted a crowd of 40-50 people and the talks were very informative and even entertaining when the 'Boom Boom Shake Shake' app that gathers sensor data was demonstrated. 
+The last meetup attracted a crowd of 40-50 people (photo below) and the talks were very informative and even entertaining when the 'Boom Boom Shake Shake' app that gathers sensor data was demonstrated. 
 
 If you want to see those slides again or you've missed the meetup you can review them here:
 
@@ -15,3 +15,7 @@ If you want to see those slides again or you've missed the meetup you can review
 - `Albertas Gimbutas - Asynchronous WebSockets using Django </slides/DjangoWebSockets.pdf>`_
 
 Thank you all for attending!
+
+.. image:: /files/photos/vilniuspy-8-people.JPG
+    :width: 100%
+    :alt: the attendees
