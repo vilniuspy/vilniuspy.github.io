@@ -16,6 +16,6 @@ If you want to see those slides again or you've missed the meetup you can review
 
 Thank you all for attending!
 
-.. image:: /files/photos/vilniuspy-8-people.JPG
+.. image:: /photos/vilniuspy-8-people.JPG
     :width: 100%
     :alt: the attendees
