@@ -1,6 +1,6 @@
 .. title: VilniusPy #10: Meet, Hack, Show, Ask
 .. slug: vilniuspy-10
-.. date: 2017-06-26 13:40:28 UTC+03:00
+.. date: 2017-06-26 16:40:28 UTC+03:00
 .. tags: meetup announcement
 .. category:
 .. link:
