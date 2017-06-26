@@ -16,6 +16,18 @@ For the summer months we will not host any more talks and instead have regular, 
 
 In case you have something to show or want to present a lighting talk, please fill the form `https://docs.google.com/forms/d/e/1FAIpQLSeVBDyPYLQRb1-OAEsx2ZGrjtlYGD5WoS9rGMDnYBv5TukTMw/viewform?usp=sf_link <https://docs.google.com/forms/d/e/1FAIpQLSeVBDyPYLQRb1-OAEsx2ZGrjtlYGD5WoS9rGMDnYBv5TukTMw/viewform?usp=sf_link>`_. and we will give you the spotlight!
 
-**Agenda**
-
+Agenda
+--------
 There is no real agenda but if there are any presentations, we will arrange them in the first half of the meetup.
+
+Where?
+--------
+Switch Bar, Labdarių 8, Vilnius
+
+When?
+--------
+July 13th, 18:00
+
+Registration
+-------------------------------------
+Registration at `meetup.com/vilniuspy <https://www.meetup.com/vilniuspy/events/241086769/>`_.
