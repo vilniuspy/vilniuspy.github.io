@@ -26,7 +26,7 @@ Switch Bar, Labdarių 8, Vilnius
 
 When?
 --------
-July 13th, 18:00
+July 25th, 18:00 *(moved from July 13th due to rainstorms)*
 
 Registration
 -------------------------------------
