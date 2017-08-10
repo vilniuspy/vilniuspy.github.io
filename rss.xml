@@ -1,5 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>VilniusPy</title><link>http://vilniuspy.lt/</link><description>Vilnius Python community website.</description><atom:link href="http://vilniuspy.lt/rss.xml" type="application/rss+xml" rel="self"></atom:link><language>en</language><lastBuildDate>Thu, 13 Jul 2017 08:33:25 GMT</lastBuildDate><generator>http://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>VilniusPy #10: Meet, Hack, Show, Ask</title><link>http://vilniuspy.lt/posts/vilniuspy-10.html</link><dc:creator>VilniusPy</dc:creator><description>&lt;div&gt;&lt;p&gt;For the summer months we will not host any more talks and instead have regular, more informal meetups. So if you match any one of the descriptions below, come join us:&lt;/p&gt;
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>VilniusPy</title><link>http://vilniuspy.lt/</link><description>Vilnius Python community website.</description><atom:link href="http://vilniuspy.lt/rss.xml" type="application/rss+xml" rel="self"></atom:link><language>en</language><lastBuildDate>Thu, 10 Aug 2017 16:33:14 GMT</lastBuildDate><generator>http://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>VilniusPy #11: Meet, Hack, Show, Ask</title><link>http://vilniuspy.lt/posts/vilniuspy-11.html</link><dc:creator>VilniusPy</dc:creator><description>&lt;div&gt;&lt;p&gt;For the summer months we will not host any more talks and instead have regular, more informal meetups. So if you match any one of the descriptions below, come join us:&lt;/p&gt;
+&lt;ul class="simple"&gt;&lt;li&gt;Have a project you have been hacking and want to show it for feedback;&lt;/li&gt;
+&lt;li&gt;Found a new library or new technology you want to share;&lt;/li&gt;
+&lt;li&gt;Have questions about Python.&lt;/li&gt;
+&lt;li&gt;Just want to enjoy casual company of other like-minded Pythonistas;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;In case you have something to show or want to present a lighting talk, please fill the form &lt;a class="reference external" href="https://goo.gl/forms/u5uemKJE44Y4Z0ve2"&gt;https://goo.gl/forms/u5uemKJE44Y4Z0ve2&lt;/a&gt;. and we will give you the spotlight!&lt;/p&gt;
+&lt;div class="section" id="agenda"&gt;
+&lt;h2&gt;Agenda&lt;/h2&gt;
+&lt;p&gt;There is no real agenda but if there are any presentations, we will arrange them in the first half of the meetup.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="where"&gt;
+&lt;h2&gt;Where?&lt;/h2&gt;
+&lt;p&gt;Switch Bar, Labdarių 8, Vilnius&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="when"&gt;
+&lt;h2&gt;When?&lt;/h2&gt;
+&lt;p&gt;August 23th, 18:00&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="registration"&gt;
+&lt;h2&gt;Registration&lt;/h2&gt;
+&lt;p&gt;Registration at &lt;a class="reference external" href="https://www.meetup.com/vilniuspy/events/242440775/"&gt;meetup.com/vilniuspy&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;</description><category>meetup announcement</category><guid>http://vilniuspy.lt/posts/vilniuspy-11.html</guid><pubDate>Thu, 10 Aug 2017 10:40:28 GMT</pubDate></item><item><title>VilniusPy #10: Meet, Hack, Show, Ask</title><link>http://vilniuspy.lt/posts/vilniuspy-10.html</link><dc:creator>VilniusPy</dc:creator><description>&lt;div&gt;&lt;p&gt;For the summer months we will not host any more talks and instead have regular, more informal meetups. So if you match any one of the descriptions below, come join us:&lt;/p&gt;
 &lt;ul class="simple"&gt;&lt;li&gt;Have a project you have been hacking and want to show it for feedback;&lt;/li&gt;
 &lt;li&gt;Found a new library or new technology you want to share;&lt;/li&gt;
 &lt;li&gt;Have questions about Python.&lt;/li&gt;
@@ -144,9 +165,4 @@ The talk will be in English.&lt;/p&gt;
 &lt;p&gt;We still have one speaker slot open for this meetup.
 If you have an idea for a talk drop a line to one of the organizers on &lt;a class="reference external" href="http://www.meetup.com/vilniuspy"&gt;meetup.com&lt;/a&gt;
 or let us know at &lt;a class="reference external" href="mailto:info@vilniuspy.lt"&gt;info@vilniuspy.lt&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Registration at &lt;a class="reference external" href="http://www.meetup.com/vilniuspy/events/223602957/"&gt;meetup.com/vilniuspy&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;</description><guid>http://vilniuspy.lt/posts/vilniuspy-4-celery.html</guid><pubDate>Mon, 13 Jul 2015 12:06:28 GMT</pubDate></item><item><title>Slides from VilniusPy #3 and VilniusPy #4 call for speakers</title><link>http://vilniuspy.lt/posts/slides-from-vilniuspy-3.html</link><dc:creator>VilniusPy</dc:creator><description>&lt;div&gt;&lt;p&gt;Slides from VilniusPy #3 meetup about ansible:&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="https://gist.github.com/sirex/4c583f612b35e56f81e8#file-slides-rst"&gt;Mantas Zimnickas - Ansible&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Thanks to Mantas for the talk and to all who attended for a great time.&lt;/p&gt;
-&lt;p&gt;We are looking for speakers for the &lt;a class="reference external" href="http://www.meetup.com/vilniuspy/events/223602957/"&gt;4th VilniusPy meetup&lt;/a&gt;
-which will happen on July 23rd. If you have an idea for a talk drop us a line at
-&lt;a class="reference external" href="mailto:info@vilniuspy.lt"&gt;info@vilniuspy.lt&lt;/a&gt; and we'll set you up.&lt;/p&gt;&lt;/div&gt;</description><guid>http://vilniuspy.lt/posts/slides-from-vilniuspy-3.html</guid><pubDate>Wed, 01 Jul 2015 11:21:49 GMT</pubDate></item></channel></rss>
+&lt;p&gt;Registration at &lt;a class="reference external" href="http://www.meetup.com/vilniuspy/events/223602957/"&gt;meetup.com/vilniuspy&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;</description><guid>http://vilniuspy.lt/posts/vilniuspy-4-celery.html</guid><pubDate>Mon, 13 Jul 2015 12:06:28 GMT</pubDate></item></channel></rss>
