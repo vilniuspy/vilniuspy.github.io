@@ -4,6 +4,6 @@ If you want to see those slides again or you've missed the meetup you can review
 
 - Dovydas Gulbinas - `Prepare Spotify playlists with Machine Learning <https://github.com/megamorphf/decluterfy/tree/master/docs>`_
 
-.. image:: /photos/vilniuspy-12-people.JPG
+.. image:: /photos/vilniuspy-12-people.jpg
     :width: 100%
     :alt: the attendees
