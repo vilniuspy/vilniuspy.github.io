@@ -1,10 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>VilniusPy</title><link>http://vilniuspy.lt/</link><description>Vilnius Python community website.</description><atom:link href="http://vilniuspy.lt/rss.xml" type="application/rss+xml" rel="self"></atom:link><language>en</language><lastBuildDate>Wed, 21 Feb 2018 07:57:28 GMT</lastBuildDate><generator>http://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Slides from VilniusPy #12</title><link>http://vilniuspy.lt/posts/slides-from-vilniuspy-12.html</link><dc:creator>VilniusPy</dc:creator><description>&lt;div&gt;&lt;p&gt;During the last meetup we had a crowd of around 30 people, great! Whilst Dovydas Gulbinas had a cold, he still managed to come and do his part. Thanks Dovydas!&lt;/p&gt;
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>VilniusPy</title><link>http://vilniuspy.lt/</link><description>Vilnius Python community website.</description><atom:link href="http://vilniuspy.lt/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><lastBuildDate>Thu, 02 May 2019 13:22:49 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>VilniusPy #19: Video streaming and multiple dispatch</title><link>http://vilniuspy.lt/posts/vilniuspy-19/</link><dc:creator>VilniusPy</dc:creator><description>&lt;div&gt;&lt;p&gt;After some break we are back with a new meetup comming on May 15th.&lt;/p&gt;
+&lt;p&gt;Not sure if meetups will be regular, because that depends on the community, if
+there are no one willing to give a talk, then there is no meetup. So please let
+us know, if you would like to give a talk at VilniusPy.&lt;/p&gt;
+&lt;div class="section" id="agenda"&gt;
+&lt;h2&gt;Agenda&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p class="first"&gt;&lt;strong&gt;Doug Sillars: I Stream, You Stream: How Do I Make My Video Stream?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The use of video on the web and on mobile is growing. It is as easy as adding
+a &lt;tt class="docutils literal"&gt;&amp;lt;video &lt;span class="pre"&gt;src=”video.mp4”&amp;gt;&lt;/span&gt;&lt;/tt&gt;, and you’re good to go. But, all the top video
+sites (YouTube, Netflix, Hulu) all stream their video. What do they know that
+we don’t know? Is streaming more efficient? Do I need any special equipment
+to create or serve video streams?&lt;/p&gt;
+&lt;p&gt;In this talk, we’ll learn the how to create and stream videos, weigh the pros
+and cons of streaming vs. static videos, and see how easy it is to get
+started delivering streaming content on the web or to a mobile app.&lt;/p&gt;
+&lt;p&gt;In this talk, we’ll look at the performance aspects of delivering video on
+the web, and how to improve the performance of video by using streaming
+instead of static videos.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class="first"&gt;&lt;strong&gt;Mantas Zimnickas: Multiple dispatch in Python&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Probably most of us understand and use object-oriented paradigm, but is this
+approach is good enough? Can we do better?&lt;/p&gt;
+&lt;p&gt;In this talk, Mantas will discuss how object-oriented programming can be
+transformed using multiple dispatch paradigm. What benefits we can get from
+it and into what traps we can fall.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="where"&gt;
+&lt;h2&gt;Where?&lt;/h2&gt;
+&lt;p&gt;Thanks &lt;a class="reference external" href="https://tesonet.com/"&gt;Tesonet&lt;/a&gt; for hosting this meetups in their new Vilnius office at
+&lt;a class="reference external" href="https://osm.org/go/0lP6bcJ2g--?m="&gt;Saltoniškių g. 10C&lt;/a&gt;, near Panorama shopping mall.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="when"&gt;
+&lt;h2&gt;When?&lt;/h2&gt;
+&lt;p&gt;2019 May 15th, 18:30.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="registration"&gt;
+&lt;h2&gt;Registration&lt;/h2&gt;
+&lt;p&gt;Registration at &lt;a class="reference external" href="https://www.meetup.com/vilniuspy/events/261103699/"&gt;meetup.com/vilniuspy&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;</description><category>meetup announcement</category><guid>http://vilniuspy.lt/posts/vilniuspy-19/</guid><pubDate>Thu, 02 May 2019 08:46:00 GMT</pubDate></item><item><title>Slides from VilniusPy #12</title><link>http://vilniuspy.lt/posts/slides-from-vilniuspy-12/</link><dc:creator>VilniusPy</dc:creator><description>&lt;div&gt;&lt;p&gt;During the last meetup we had a crowd of around 30 people, great! Whilst Dovydas Gulbinas had a cold, he still managed to come and do his part. Thanks Dovydas!&lt;/p&gt;
 &lt;p&gt;If you want to see those slides again or you've missed the meetup you can review them here:&lt;/p&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;Dovydas Gulbinas - &lt;a class="reference external" href="https://github.com/megamorphf/decluterfy/tree/master/docs"&gt;Prepare Spotify playlists with Machine Learning&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;img alt="the attendees" src="http://vilniuspy.lt/photos/vilniuspy-12-people.jpg" style="width: 100%;"&gt;&lt;/div&gt;</description><category>meetup slides</category><guid>http://vilniuspy.lt/posts/slides-from-vilniuspy-12.html</guid><pubDate>Fri, 29 Sep 2017 08:20:00 GMT</pubDate></item><item><title>VilniusPy #12: Spotify playlists with Machine Learning</title><link>http://vilniuspy.lt/posts/vilniuspy-12.html</link><dc:creator>VilniusPy</dc:creator><description>&lt;div&gt;&lt;p&gt;Hi Python Charmers,&lt;/p&gt;
+&lt;img alt="the attendees" src="http://vilniuspy.lt/photos/vilniuspy-12-people.jpg" style="width: 100%;"&gt;&lt;/div&gt;</description><category>meetup slides</category><guid>http://vilniuspy.lt/posts/slides-from-vilniuspy-12/</guid><pubDate>Fri, 29 Sep 2017 08:20:00 GMT</pubDate></item><item><title>VilniusPy #12: Spotify playlists with Machine Learning</title><link>http://vilniuspy.lt/posts/vilniuspy-12/</link><dc:creator>VilniusPy</dc:creator><description>&lt;div&gt;&lt;p&gt;Hi Python Charmers,&lt;/p&gt;
 &lt;p&gt;We are now back to regular talks. This month we have only one but it should be good. Hopefully on the upcoming months we can find more speakers, write to us if you are interested!&lt;/p&gt;
 &lt;div class="section" id="agenda"&gt;
 &lt;h2&gt;Agenda&lt;/h2&gt;
@@ -23,7 +64,7 @@
 &lt;div class="section" id="registration"&gt;
 &lt;h2&gt;Registration&lt;/h2&gt;
 &lt;p&gt;Registration at &lt;a class="reference external" href="https://www.meetup.com/vilniuspy/events/243465237/"&gt;meetup.com/vilniuspy&lt;/a&gt;.&lt;/p&gt;
-&lt;/div&gt;&lt;/div&gt;</description><category>meetup announcement</category><guid>http://vilniuspy.lt/posts/vilniuspy-12.html</guid><pubDate>Sun, 10 Sep 2017 10:40:28 GMT</pubDate></item><item><title>VilniusPy #11: Meet, Hack, Show, Ask</title><link>http://vilniuspy.lt/posts/vilniuspy-11.html</link><dc:creator>VilniusPy</dc:creator><description>&lt;div&gt;&lt;p&gt;For the summer months we will not host any more talks and instead have regular, more informal meetups. So if you match any one of the descriptions below, come join us:&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;</description><category>meetup announcement</category><guid>http://vilniuspy.lt/posts/vilniuspy-12/</guid><pubDate>Sun, 10 Sep 2017 10:40:28 GMT</pubDate></item><item><title>VilniusPy #11: Meet, Hack, Show, Ask</title><link>http://vilniuspy.lt/posts/vilniuspy-11/</link><dc:creator>VilniusPy</dc:creator><description>&lt;div&gt;&lt;p&gt;For the summer months we will not host any more talks and instead have regular, more informal meetups. So if you match any one of the descriptions below, come join us:&lt;/p&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;Have a project you have been hacking and want to show it for feedback;&lt;/li&gt;
 &lt;li&gt;Found a new library or new technology you want to share;&lt;/li&gt;
@@ -46,7 +87,7 @@
 &lt;div class="section" id="registration"&gt;
 &lt;h2&gt;Registration&lt;/h2&gt;
 &lt;p&gt;Registration at &lt;a class="reference external" href="https://www.meetup.com/vilniuspy/events/242440775/"&gt;meetup.com/vilniuspy&lt;/a&gt;.&lt;/p&gt;
-&lt;/div&gt;&lt;/div&gt;</description><category>meetup announcement</category><guid>http://vilniuspy.lt/posts/vilniuspy-11.html</guid><pubDate>Thu, 10 Aug 2017 10:40:28 GMT</pubDate></item><item><title>VilniusPy #10: Meet, Hack, Show, Ask</title><link>http://vilniuspy.lt/posts/vilniuspy-10.html</link><dc:creator>VilniusPy</dc:creator><description>&lt;div&gt;&lt;p&gt;For the summer months we will not host any more talks and instead have regular, more informal meetups. So if you match any one of the descriptions below, come join us:&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;</description><category>meetup announcement</category><guid>http://vilniuspy.lt/posts/vilniuspy-11/</guid><pubDate>Thu, 10 Aug 2017 10:40:28 GMT</pubDate></item><item><title>VilniusPy #10: Meet, Hack, Show, Ask</title><link>http://vilniuspy.lt/posts/vilniuspy-10/</link><dc:creator>VilniusPy</dc:creator><description>&lt;div&gt;&lt;p&gt;For the summer months we will not host any more talks and instead have regular, more informal meetups. So if you match any one of the descriptions below, come join us:&lt;/p&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;Have a project you have been hacking and want to show it for feedback;&lt;/li&gt;
 &lt;li&gt;Found a new library or new technology you want to share;&lt;/li&gt;
@@ -69,7 +110,7 @@
 &lt;div class="section" id="registration"&gt;
 &lt;h2&gt;Registration&lt;/h2&gt;
 &lt;p&gt;Registration at &lt;a class="reference external" href="https://www.meetup.com/vilniuspy/events/241086769/"&gt;meetup.com/vilniuspy&lt;/a&gt;.&lt;/p&gt;
-&lt;/div&gt;&lt;/div&gt;</description><category>meetup announcement</category><guid>http://vilniuspy.lt/posts/vilniuspy-10.html</guid><pubDate>Mon, 26 Jun 2017 10:40:28 GMT</pubDate></item><item><title>VilniusPy #9: Meet, Hack, Show, Ask</title><link>http://vilniuspy.lt/posts/vilniuspy-9.html</link><dc:creator>VilniusPy</dc:creator><description>&lt;div&gt;&lt;p&gt;For the summer months we will not host any more talks and instead have regular, more informal meetups. So if you match any one of the descriptions below, come join us:&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;</description><category>meetup announcement</category><guid>http://vilniuspy.lt/posts/vilniuspy-10/</guid><pubDate>Mon, 26 Jun 2017 10:40:28 GMT</pubDate></item><item><title>VilniusPy #9: Meet, Hack, Show, Ask</title><link>http://vilniuspy.lt/posts/vilniuspy-9/</link><dc:creator>VilniusPy</dc:creator><description>&lt;div&gt;&lt;p&gt;For the summer months we will not host any more talks and instead have regular, more informal meetups. So if you match any one of the descriptions below, come join us:&lt;/p&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;Have a project you have been hacking and want to show it for feedback;&lt;/li&gt;
 &lt;li&gt;Found a new library or new technology you want to share;&lt;/li&gt;
@@ -92,14 +133,14 @@
 &lt;div class="section" id="registration"&gt;
 &lt;h2&gt;Registration&lt;/h2&gt;
 &lt;p&gt;Registration at &lt;a class="reference external" href="https://www.meetup.com/vilniuspy/events/240550995/"&gt;meetup.com/vilniuspy&lt;/a&gt;.&lt;/p&gt;
-&lt;/div&gt;&lt;/div&gt;</description><category>meetup announcement</category><guid>http://vilniuspy.lt/posts/vilniuspy-9.html</guid><pubDate>Mon, 05 Jun 2017 11:08:28 GMT</pubDate></item><item><title>Slides from VilniusPy #8</title><link>http://vilniuspy.lt/posts/slides-from-vilniuspy-8.html</link><dc:creator>VilniusPy</dc:creator><description>&lt;div&gt;&lt;p&gt;The last meetup attracted a crowd of 40-50 people (photo below) and the talks were very informative and even entertaining when the 'Boom Boom Shake Shake' app that gathers sensor data was demonstrated.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;</description><category>meetup announcement</category><guid>http://vilniuspy.lt/posts/vilniuspy-9/</guid><pubDate>Mon, 05 Jun 2017 11:08:28 GMT</pubDate></item><item><title>Slides from VilniusPy #8</title><link>http://vilniuspy.lt/posts/slides-from-vilniuspy-8/</link><dc:creator>VilniusPy</dc:creator><description>&lt;div&gt;&lt;p&gt;The last meetup attracted a crowd of 40-50 people (photo below) and the talks were very informative and even entertaining when the 'Boom Boom Shake Shake' app that gathers sensor data was demonstrated.&lt;/p&gt;
 &lt;p&gt;If you want to see those slides again or you've missed the meetup you can review them here:&lt;/p&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;Romeo Kienzler - &lt;a class="reference external" href="https://www.slideshare.net/ormium/parallelization-stategies-of-deeplearning-neural-network-training"&gt;Building Brains - Parallelisation strategies of large-scale deep learning neural networks on parallel scale out architectures like ApacheSpark&lt;/a&gt; and also &lt;a class="reference external" href="https://www.slideshare.net/ormium/cognitive-iot-using-deeplearning-on-data-parallel-frameworks-like-spark-flink"&gt;Cognitive IoT using DeepLearning on data parallel frameworks like Spark &amp;amp; Flink&lt;/a&gt;. Also, don't forget to subscribe to his &lt;a class="reference external" href="https://www.youtube.com/channel/UC_zIqSWu-yQcBAywLtHDAfg"&gt;YouTube channel&lt;/a&gt; for more.&lt;/li&gt;
 &lt;li&gt;&lt;a class="reference external" href="http://vilniuspy.lt/slides/DjangoWebSockets.pdf"&gt;Albertas Gimbutas - Asynchronous WebSockets using Django&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Thank you all for attending!&lt;/p&gt;
-&lt;img alt="the attendees" src="http://vilniuspy.lt/photos/vilniuspy-8-people.JPG" style="width: 100%;"&gt;&lt;/div&gt;</description><category>meetup slides</category><guid>http://vilniuspy.lt/posts/slides-from-vilniuspy-8.html</guid><pubDate>Mon, 22 May 2017 08:20:00 GMT</pubDate></item><item><title>VilniusPy #8: Asynchronous WebSockets and Deep Learning</title><link>http://vilniuspy.lt/posts/vilniuspy-8-asynchronous-websockets-deep-learning.html</link><dc:creator>VilniusPy</dc:creator><description>&lt;div&gt;&lt;p&gt;Hi Python Charmers,&lt;/p&gt;
+&lt;img alt="the attendees" src="http://vilniuspy.lt/photos/vilniuspy-8-people.JPG" style="width: 100%;"&gt;&lt;/div&gt;</description><category>meetup slides</category><guid>http://vilniuspy.lt/posts/slides-from-vilniuspy-8/</guid><pubDate>Mon, 22 May 2017 08:20:00 GMT</pubDate></item><item><title>VilniusPy #8: Asynchronous WebSockets and Deep Learning</title><link>http://vilniuspy.lt/posts/vilniuspy-8-asynchronous-websockets-deep-learning/</link><dc:creator>VilniusPy</dc:creator><description>&lt;div&gt;&lt;p&gt;Hi Python Charmers,&lt;/p&gt;
 &lt;p&gt;As the summer is coming along and we have many other exciting events ahead like PyconLT 2017, the upcoming meetup will host only one talk.&lt;/p&gt;
 &lt;p&gt;While last meetups did not include any web development topics which many of you are interested in, in this one we will talk more about Django and its Asynchronous WebSockets. Also, we have Romeo Kienzler presenting about parallelisation strategies of large-scale deep learning neural networks.&lt;/p&gt;
 &lt;div class="section" id="agenda"&gt;
@@ -134,7 +175,7 @@
 &lt;div class="section" id="registration"&gt;
 &lt;h2&gt;Registration&lt;/h2&gt;
 &lt;p&gt;Registration at &lt;a class="reference external" href="https://www.meetup.com/vilniuspy/events/238765822/"&gt;meetup.com/vilniuspy&lt;/a&gt;.&lt;/p&gt;
-&lt;/div&gt;&lt;/div&gt;</description><category>meetup announcement</category><guid>http://vilniuspy.lt/posts/vilniuspy-8-asynchronous-websockets-deep-learning.html</guid><pubDate>Mon, 08 May 2017 11:08:28 GMT</pubDate></item><item><title>VilniusPy #7: Concurrency and Games</title><link>http://vilniuspy.lt/posts/vilniuspy-7-concurrency-games.html</link><dc:creator>VilniusPy</dc:creator><description>&lt;div&gt;&lt;p&gt;Hi Python Charmers,&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;</description><category>meetup announcement</category><guid>http://vilniuspy.lt/posts/vilniuspy-8-asynchronous-websockets-deep-learning/</guid><pubDate>Mon, 08 May 2017 11:08:28 GMT</pubDate></item><item><title>VilniusPy #7: Concurrency and Games</title><link>http://vilniuspy.lt/posts/vilniuspy-7-concurrency-games/</link><dc:creator>VilniusPy</dc:creator><description>&lt;div&gt;&lt;p&gt;Hi Python Charmers,&lt;/p&gt;
 &lt;p&gt;After last time success where "on paper" over 80 people turned up, we are completely overwhelmed by the size of Python community in Vilnius and are super excited about it!&lt;/p&gt;
 &lt;p&gt;The only downside of such interest is that it's hard to find a good location for the meetups, so the next one is going to be at Wix which should be able to host all of us comfortably.&lt;/p&gt;
 &lt;p&gt;In contrast to the last meetup, we are going to dig deeper and more technical this time.&lt;/p&gt;
@@ -167,41 +208,10 @@
 &lt;div class="section" id="registration"&gt;
 &lt;h2&gt;Registration&lt;/h2&gt;
 &lt;p&gt;Registration at &lt;a class="reference external" href="https://www.meetup.com/vilniuspy/events/238765822/"&gt;meetup.com/vilniuspy&lt;/a&gt;.&lt;/p&gt;
-&lt;/div&gt;&lt;/div&gt;</description><category>meetup announcement</category><guid>http://vilniuspy.lt/posts/vilniuspy-7-concurrency-games.html</guid><pubDate>Tue, 28 Mar 2017 10:09:28 GMT</pubDate></item><item><title>Slides from VilniusPy #6</title><link>http://vilniuspy.lt/posts/slides-from-vilniuspy-6.html</link><dc:creator>VilniusPy</dc:creator><description>&lt;div&gt;&lt;p&gt;Return of VilniusPy was a tremendous success. More than 70 people came to listen for 2 talks presented by Karolis and Justas.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;</description><category>meetup announcement</category><guid>http://vilniuspy.lt/posts/vilniuspy-7-concurrency-games/</guid><pubDate>Tue, 28 Mar 2017 10:09:28 GMT</pubDate></item><item><title>Slides from VilniusPy #6</title><link>http://vilniuspy.lt/posts/slides-from-vilniuspy-6/</link><dc:creator>VilniusPy</dc:creator><description>&lt;div&gt;&lt;p&gt;Return of VilniusPy was a tremendous success. More than 70 people came to listen for 2 talks presented by Karolis and Justas.&lt;/p&gt;
 &lt;p&gt;If you want to see those slides again or you've missed the meetup you can review them here:&lt;/p&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;&lt;a class="reference external" href="https://www.slideshare.net/KarolisRamanauskas1/why-learn-python-in-2017"&gt;Karolis Ramanauskas - Why learn python in 2017&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a class="reference external" href="http://trimailov.com/presentations/#/"&gt;Justas Trimailovas - Python: the last language you'll need to learn&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Thank you all for attending.&lt;/p&gt;&lt;/div&gt;</description><category>meetup slides</category><guid>http://vilniuspy.lt/posts/slides-from-vilniuspy-6.html</guid><pubDate>Thu, 16 Mar 2017 08:40:00 GMT</pubDate></item><item><title>VilniusPy #6: The Return</title><link>http://vilniuspy.lt/posts/vilniuspy-6-the-return.html</link><dc:creator>VilniusPy</dc:creator><description>&lt;div&gt;&lt;p&gt;Hi fellow Python Charmers,&lt;/p&gt;
-&lt;p&gt;We are excited to announce that after over a year long break VilniusPy is back!&lt;/p&gt;
-&lt;div class="section" id="agenda"&gt;
-&lt;h2&gt;Agenda&lt;/h2&gt;
-&lt;ol class="arabic simple"&gt;
-&lt;li&gt;&lt;strong&gt;“Why learn Python in 2017?” (EN) Karolis Ramanauskas&lt;/strong&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Karolis Ramanauskas will be giving a semi-motivational talk about why today is a great time to learn Python. He will give an overview of the current state of the language, its application areas, and in the end will discuss Python’s future.&lt;/p&gt;
-&lt;ol class="arabic simple" start="2"&gt;
-&lt;li&gt;&lt;strong&gt;“Python - the last language you’ll need to learn” (EN) Justas Trimailovas&lt;/strong&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;A more technical walkthrough about Python’s extensive standard library and great ecosystem of third party libraries.&lt;/p&gt;
-&lt;ol class="arabic simple" start="3"&gt;
-&lt;li&gt;&lt;strong&gt;Continue the meetup at a nearby bar for open discussion&lt;/strong&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/div&gt;
-&lt;div class="section" id="where"&gt;
-&lt;h2&gt;Where?&lt;/h2&gt;
-&lt;p&gt;Thanks UBER for letting us host the meeting in their Vilnius office at Lvovo st. 25, 8th floor.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="when"&gt;
-&lt;h2&gt;When?&lt;/h2&gt;
-&lt;p&gt;March 15th, 19:00&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="invite-for-speakers"&gt;
-&lt;h2&gt;Invite for speakers&lt;/h2&gt;
-&lt;p&gt;Want to give a talk at VilniusPy? Contact organisers at &lt;a class="reference external" href="mailto:info@vilniuspy.lt/"&gt;info@vilniuspy.lt&lt;/a&gt;, “Contact” button to the left or #vilniuspy channel on UserGroups slack!&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="registration"&gt;
-&lt;h2&gt;Registration&lt;/h2&gt;
-&lt;p&gt;Registration at &lt;a class="reference external" href="https://www.meetup.com/vilniuspy/events/237721907/"&gt;meetup.com/vilniuspy&lt;/a&gt;.&lt;/p&gt;
-&lt;/div&gt;&lt;/div&gt;</description><category>meetup announcement</category><guid>http://vilniuspy.lt/posts/vilniuspy-6-the-return.html</guid><pubDate>Wed, 15 Feb 2017 08:06:28 GMT</pubDate></item></channel></rss>
+&lt;p&gt;Thank you all for attending.&lt;/p&gt;&lt;/div&gt;</description><category>meetup slides</category><guid>http://vilniuspy.lt/posts/slides-from-vilniuspy-6/</guid><pubDate>Thu, 16 Mar 2017 08:40:00 GMT</pubDate></item></channel></rss>

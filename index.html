@@ -1,39 +1,23 @@
 <!DOCTYPE html>
-<html prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article# " vocab="http://ogp.me/ns" lang="en">
+<html prefix="        og: http://ogp.me/ns# article: http://ogp.me/ns/article#     " vocab="http://ogp.me/ns" lang="en">
 <head>
-    <meta charset="utf-8">
-    <meta name="description" content="Vilnius Python community website.">
-    <meta name="viewport" content="width=device-width">
-    <title>VilniusPy | VilniusPy</title>
-
-    
-            <link href="assets/css/all-nocdn.css" rel="stylesheet" type="text/css">
-
-    
-            <link rel="alternate" type="application/rss+xml" title="RSS" href="rss.xml">
-
-      <link rel="canonical" href="http://vilniuspy.lt/index.html">
-
-
-
-        <link rel="next" href="index-1.html" type="text/html">
-
-    
-        <!--[if lt IE 9]><script src="assets/js/html5.js"></script><![endif]-->
-
-    
-
-
-
-
+<meta charset="utf-8">
+<meta name="description" content="Vilnius Python community website.">
+<meta name="viewport" content="width=device-width">
+<title>VilniusPy</title>
+<link href="assets/css/all-nocdn.css" rel="stylesheet" type="text/css">
+<meta name="theme-color" content="#5670d4">
+<meta name="generator" content="Nikola (getnikola.com)">
+<link rel="alternate" type="application/rss+xml" title="RSS" hreflang="en" href="rss.xml">
+<link rel="canonical" href="http://vilniuspy.lt/">
+<link rel="next" href="index-2.html" type="text/html">
+<!--[if lt IE 9]><script src="assets/js/html5shiv-printshiv.min.js"></script><![endif]--><link rel="prefetch" href="posts/vilniuspy-19/" type="text/html">
 </head>
 <body>
-<a href="#content" class="sr-only sr-only-focusable">Skip to main content</a>
+    <a href="#content" class="sr-only sr-only-focusable">Skip to main content</a>
     <div id="container">
          
-    <header id="header" role="banner">
-        
-    <h1 id="brand"><a href="http://vilniuspy.lt/" title="VilniusPy" rel="home">
+    <header id="header"><h1 id="brand"><a href="http://vilniuspy.lt/" title="VilniusPy" rel="home">
 
         <span id="blog-title">VilniusPy</span>
     </a></h1>
@@ -41,33 +25,87 @@
         
 
         
-    <nav id="menu" role="navigation">
-    <ul>
-                <li><a href=".">Home</a></li>
-                <li><a href="stories/about.html">About</a></li>
-                <li><a href="stories/contact.html">Contact</a></li>
+    <nav id="menu"><ul>
+<li class="active"><a href=".">Home<span class="sr-only"> (active)</span></a></li>
+                <li><a href="stories/about/index.html">About</a></li>
+                <li><a href="stories/contact/index.html">Contact</a></li>
                 <li><a href="archive.html">Archive</a></li>
                 <li><a href="rss.xml">RSS feed</a></li>
-    
-    
-    </ul>
-    </nav>
 
-    </header>
     
 
-         <main id="content" role="main">
-            
-<div class="postindex">
-    <article class="h-entry post-text">
-    <header>
-        <h1 class="p-name entry-title"><a href="posts/slides-from-vilniuspy-12.html" class="u-url">Slides from VilniusPy #12</a></h1>
+    
+    
+    </ul></nav></header><main id="content"><div class="postindex">
+    <article class="h-entry post-text" itemscope="itemscope" itemtype="http://schema.org/Article"><header><h1 class="p-name entry-title"><a href="posts/vilniuspy-19/" class="u-url">VilniusPy #19: Video streaming and multiple dispatch</a></h1>
         <div class="metadata">
-            <p class="byline author vcard"><span class="byline-name fn">VilniusPy</span></p>
-            <p class="dateline"><a href="posts/slides-from-vilniuspy-12.html" rel="bookmark"><time class="published dt-published" datetime="2017-09-29T11:20:00+03:00" title="2017-09-29 11:20">2017-09-29 11:20</time></a></p>
+            <p class="byline author vcard"><span class="byline-name fn" itemprop="author">
+                VilniusPy
+            </span></p>
+            <p class="dateline">
+            <a href="posts/vilniuspy-19/" rel="bookmark">
+            <time class="published dt-published" datetime="2019-05-02T11:46:00+03:00" itemprop="datePublished" title="2019-05-02 11:46">2019-05-02 11:46</time></a>
+            </p>
         </div>
-    </header>
-    <div class="e-content entry-content">
+    </header><div class="e-content entry-content">
+    <div>
+<p>After some break we are back with a new meetup comming on May 15th.</p>
+<p>Not sure if meetups will be regular, because that depends on the community, if
+there are no one willing to give a talk, then there is no meetup. So please let
+us know, if you would like to give a talk at VilniusPy.</p>
+<div class="section" id="agenda">
+<h2>Agenda</h2>
+<ul>
+<li>
+<p class="first"><strong>Doug Sillars: I Stream, You Stream: How Do I Make My Video Stream?</strong></p>
+<p>The use of video on the web and on mobile is growing. It is as easy as adding
+a <tt class="docutils literal">&lt;video <span class="pre">src=”video.mp4”&gt;</span></tt>, and you’re good to go. But, all the top video
+sites (YouTube, Netflix, Hulu) all stream their video. What do they know that
+we don’t know? Is streaming more efficient? Do I need any special equipment
+to create or serve video streams?</p>
+<p>In this talk, we’ll learn the how to create and stream videos, weigh the pros
+and cons of streaming vs. static videos, and see how easy it is to get
+started delivering streaming content on the web or to a mobile app.</p>
+<p>In this talk, we’ll look at the performance aspects of delivering video on
+the web, and how to improve the performance of video by using streaming
+instead of static videos.</p>
+</li>
+<li>
+<p class="first"><strong>Mantas Zimnickas: Multiple dispatch in Python</strong></p>
+<p>Probably most of us understand and use object-oriented paradigm, but is this
+approach is good enough? Can we do better?</p>
+<p>In this talk, Mantas will discuss how object-oriented programming can be
+transformed using multiple dispatch paradigm. What benefits we can get from
+it and into what traps we can fall.</p>
+</li>
+</ul>
+</div>
+<div class="section" id="where">
+<h2>Where?</h2>
+<p>Thanks <a class="reference external" href="https://tesonet.com/">Tesonet</a> for hosting this meetups in their new Vilnius office at
+<a class="reference external" href="https://osm.org/go/0lP6bcJ2g--?m=">Saltoniškių g. 10C</a>, near Panorama shopping mall.</p>
+</div>
+<div class="section" id="when">
+<h2>When?</h2>
+<p>2019 May 15th, 18:30.</p>
+</div>
+<div class="section" id="registration">
+<h2>Registration</h2>
+<p>Registration at <a class="reference external" href="https://www.meetup.com/vilniuspy/events/261103699/">meetup.com/vilniuspy</a>.</p>
+</div>
+</div>
+    </div>
+    </article><article class="h-entry post-text" itemscope="itemscope" itemtype="http://schema.org/Article"><header><h1 class="p-name entry-title"><a href="posts/slides-from-vilniuspy-12/" class="u-url">Slides from VilniusPy #12</a></h1>
+        <div class="metadata">
+            <p class="byline author vcard"><span class="byline-name fn" itemprop="author">
+                VilniusPy
+            </span></p>
+            <p class="dateline">
+            <a href="posts/slides-from-vilniuspy-12/" rel="bookmark">
+            <time class="published dt-published" datetime="2017-09-29T11:20:00+03:00" itemprop="datePublished" title="2017-09-29 11:20">2017-09-29 11:20</time></a>
+            </p>
+        </div>
+    </header><div class="e-content entry-content">
     <div>
 <p>During the last meetup we had a crowd of around 30 people, great! Whilst Dovydas Gulbinas had a cold, he still managed to come and do his part. Thanks Dovydas!</p>
 <p>If you want to see those slides again or you've missed the meetup you can review them here:</p>
@@ -78,16 +116,17 @@
 <img alt="the attendees" src="photos/vilniuspy-12-people.jpg" style="width: 100%;">
 </div>
     </div>
-    </article>
-    <article class="h-entry post-text">
-    <header>
-        <h1 class="p-name entry-title"><a href="posts/vilniuspy-12.html" class="u-url">VilniusPy #12: Spotify playlists with Machine Learning</a></h1>
+    </article><article class="h-entry post-text" itemscope="itemscope" itemtype="http://schema.org/Article"><header><h1 class="p-name entry-title"><a href="posts/vilniuspy-12/" class="u-url">VilniusPy #12: Spotify playlists with Machine Learning</a></h1>
         <div class="metadata">
-            <p class="byline author vcard"><span class="byline-name fn">VilniusPy</span></p>
-            <p class="dateline"><a href="posts/vilniuspy-12.html" rel="bookmark"><time class="published dt-published" datetime="2017-09-10T13:40:28+03:00" title="2017-09-10 13:40">2017-09-10 13:40</time></a></p>
+            <p class="byline author vcard"><span class="byline-name fn" itemprop="author">
+                VilniusPy
+            </span></p>
+            <p class="dateline">
+            <a href="posts/vilniuspy-12/" rel="bookmark">
+            <time class="published dt-published" datetime="2017-09-10T13:40:28+03:00" itemprop="datePublished" title="2017-09-10 13:40">2017-09-10 13:40</time></a>
+            </p>
         </div>
-    </header>
-    <div class="e-content entry-content">
+    </header><div class="e-content entry-content">
     <div>
 <p>Hi Python Charmers,</p>
 <p>We are now back to regular talks. This month we have only one but it should be good. Hopefully on the upcoming months we can find more speakers, write to us if you are interested!</p>
@@ -111,16 +150,17 @@
 </div>
 </div>
     </div>
-    </article>
-    <article class="h-entry post-text">
-    <header>
-        <h1 class="p-name entry-title"><a href="posts/vilniuspy-11.html" class="u-url">VilniusPy #11: Meet, Hack, Show, Ask</a></h1>
+    </article><article class="h-entry post-text" itemscope="itemscope" itemtype="http://schema.org/Article"><header><h1 class="p-name entry-title"><a href="posts/vilniuspy-11/" class="u-url">VilniusPy #11: Meet, Hack, Show, Ask</a></h1>
         <div class="metadata">
-            <p class="byline author vcard"><span class="byline-name fn">VilniusPy</span></p>
-            <p class="dateline"><a href="posts/vilniuspy-11.html" rel="bookmark"><time class="published dt-published" datetime="2017-08-10T13:40:28+03:00" title="2017-08-10 13:40">2017-08-10 13:40</time></a></p>
+            <p class="byline author vcard"><span class="byline-name fn" itemprop="author">
+                VilniusPy
+            </span></p>
+            <p class="dateline">
+            <a href="posts/vilniuspy-11/" rel="bookmark">
+            <time class="published dt-published" datetime="2017-08-10T13:40:28+03:00" itemprop="datePublished" title="2017-08-10 13:40">2017-08-10 13:40</time></a>
+            </p>
         </div>
-    </header>
-    <div class="e-content entry-content">
+    </header><div class="e-content entry-content">
     <div>
 <p>For the summer months we will not host any more talks and instead have regular, more informal meetups. So if you match any one of the descriptions below, come join us:</p>
 <ul class="simple">
@@ -148,16 +188,17 @@
 </div>
 </div>
     </div>
-    </article>
-    <article class="h-entry post-text">
-    <header>
-        <h1 class="p-name entry-title"><a href="posts/vilniuspy-10.html" class="u-url">VilniusPy #10: Meet, Hack, Show, Ask</a></h1>
+    </article><article class="h-entry post-text" itemscope="itemscope" itemtype="http://schema.org/Article"><header><h1 class="p-name entry-title"><a href="posts/vilniuspy-10/" class="u-url">VilniusPy #10: Meet, Hack, Show, Ask</a></h1>
         <div class="metadata">
-            <p class="byline author vcard"><span class="byline-name fn">VilniusPy</span></p>
-            <p class="dateline"><a href="posts/vilniuspy-10.html" rel="bookmark"><time class="published dt-published" datetime="2017-06-26T13:40:28+03:00" title="2017-06-26 13:40">2017-06-26 13:40</time></a></p>
+            <p class="byline author vcard"><span class="byline-name fn" itemprop="author">
+                VilniusPy
+            </span></p>
+            <p class="dateline">
+            <a href="posts/vilniuspy-10/" rel="bookmark">
+            <time class="published dt-published" datetime="2017-06-26T13:40:28+03:00" itemprop="datePublished" title="2017-06-26 13:40">2017-06-26 13:40</time></a>
+            </p>
         </div>
-    </header>
-    <div class="e-content entry-content">
+    </header><div class="e-content entry-content">
     <div>
 <p>For the summer months we will not host any more talks and instead have regular, more informal meetups. So if you match any one of the descriptions below, come join us:</p>
 <ul class="simple">
@@ -185,16 +226,17 @@
 </div>
 </div>
     </div>
-    </article>
-    <article class="h-entry post-text">
-    <header>
-        <h1 class="p-name entry-title"><a href="posts/vilniuspy-9.html" class="u-url">VilniusPy #9: Meet, Hack, Show, Ask</a></h1>
+    </article><article class="h-entry post-text" itemscope="itemscope" itemtype="http://schema.org/Article"><header><h1 class="p-name entry-title"><a href="posts/vilniuspy-9/" class="u-url">VilniusPy #9: Meet, Hack, Show, Ask</a></h1>
         <div class="metadata">
-            <p class="byline author vcard"><span class="byline-name fn">VilniusPy</span></p>
-            <p class="dateline"><a href="posts/vilniuspy-9.html" rel="bookmark"><time class="published dt-published" datetime="2017-06-05T14:08:28+03:00" title="2017-06-05 14:08">2017-06-05 14:08</time></a></p>
+            <p class="byline author vcard"><span class="byline-name fn" itemprop="author">
+                VilniusPy
+            </span></p>
+            <p class="dateline">
+            <a href="posts/vilniuspy-9/" rel="bookmark">
+            <time class="published dt-published" datetime="2017-06-05T14:08:28+03:00" itemprop="datePublished" title="2017-06-05 14:08">2017-06-05 14:08</time></a>
+            </p>
         </div>
-    </header>
-    <div class="e-content entry-content">
+    </header><div class="e-content entry-content">
     <div>
 <p>For the summer months we will not host any more talks and instead have regular, more informal meetups. So if you match any one of the descriptions below, come join us:</p>
 <ul class="simple">
@@ -222,16 +264,17 @@
 </div>
 </div>
     </div>
-    </article>
-    <article class="h-entry post-text">
-    <header>
-        <h1 class="p-name entry-title"><a href="posts/slides-from-vilniuspy-8.html" class="u-url">Slides from VilniusPy #8</a></h1>
+    </article><article class="h-entry post-text" itemscope="itemscope" itemtype="http://schema.org/Article"><header><h1 class="p-name entry-title"><a href="posts/slides-from-vilniuspy-8/" class="u-url">Slides from VilniusPy #8</a></h1>
         <div class="metadata">
-            <p class="byline author vcard"><span class="byline-name fn">VilniusPy</span></p>
-            <p class="dateline"><a href="posts/slides-from-vilniuspy-8.html" rel="bookmark"><time class="published dt-published" datetime="2017-05-22T11:20:00+03:00" title="2017-05-22 11:20">2017-05-22 11:20</time></a></p>
+            <p class="byline author vcard"><span class="byline-name fn" itemprop="author">
+                VilniusPy
+            </span></p>
+            <p class="dateline">
+            <a href="posts/slides-from-vilniuspy-8/" rel="bookmark">
+            <time class="published dt-published" datetime="2017-05-22T11:20:00+03:00" itemprop="datePublished" title="2017-05-22 11:20">2017-05-22 11:20</time></a>
+            </p>
         </div>
-    </header>
-    <div class="e-content entry-content">
+    </header><div class="e-content entry-content">
     <div>
 <p>The last meetup attracted a crowd of 40-50 people (photo below) and the talks were very informative and even entertaining when the 'Boom Boom Shake Shake' app that gathers sensor data was demonstrated.</p>
 <p>If you want to see those slides again or you've missed the meetup you can review them here:</p>
@@ -243,16 +286,17 @@
 <img alt="the attendees" src="photos/vilniuspy-8-people.JPG" style="width: 100%;">
 </div>
     </div>
-    </article>
-    <article class="h-entry post-text">
-    <header>
-        <h1 class="p-name entry-title"><a href="posts/vilniuspy-8-asynchronous-websockets-deep-learning.html" class="u-url">VilniusPy #8: Asynchronous WebSockets and Deep Learning</a></h1>
+    </article><article class="h-entry post-text" itemscope="itemscope" itemtype="http://schema.org/Article"><header><h1 class="p-name entry-title"><a href="posts/vilniuspy-8-asynchronous-websockets-deep-learning/" class="u-url">VilniusPy #8: Asynchronous WebSockets and Deep Learning</a></h1>
         <div class="metadata">
-            <p class="byline author vcard"><span class="byline-name fn">VilniusPy</span></p>
-            <p class="dateline"><a href="posts/vilniuspy-8-asynchronous-websockets-deep-learning.html" rel="bookmark"><time class="published dt-published" datetime="2017-05-08T14:08:28+03:00" title="2017-05-08 14:08">2017-05-08 14:08</time></a></p>
+            <p class="byline author vcard"><span class="byline-name fn" itemprop="author">
+                VilniusPy
+            </span></p>
+            <p class="dateline">
+            <a href="posts/vilniuspy-8-asynchronous-websockets-deep-learning/" rel="bookmark">
+            <time class="published dt-published" datetime="2017-05-08T14:08:28+03:00" itemprop="datePublished" title="2017-05-08 14:08">2017-05-08 14:08</time></a>
+            </p>
         </div>
-    </header>
-    <div class="e-content entry-content">
+    </header><div class="e-content entry-content">
     <div>
 <p>Hi Python Charmers,</p>
 <p>As the summer is coming along and we have many other exciting events ahead like PyconLT 2017, the upcoming meetup will host only one talk.</p>
@@ -292,16 +336,17 @@
 </div>
 </div>
     </div>
-    </article>
-    <article class="h-entry post-text">
-    <header>
-        <h1 class="p-name entry-title"><a href="posts/vilniuspy-7-concurrency-games.html" class="u-url">VilniusPy #7: Concurrency and Games</a></h1>
+    </article><article class="h-entry post-text" itemscope="itemscope" itemtype="http://schema.org/Article"><header><h1 class="p-name entry-title"><a href="posts/vilniuspy-7-concurrency-games/" class="u-url">VilniusPy #7: Concurrency and Games</a></h1>
         <div class="metadata">
-            <p class="byline author vcard"><span class="byline-name fn">VilniusPy</span></p>
-            <p class="dateline"><a href="posts/vilniuspy-7-concurrency-games.html" rel="bookmark"><time class="published dt-published" datetime="2017-03-28T13:09:28+03:00" title="2017-03-28 13:09">2017-03-28 13:09</time></a></p>
+            <p class="byline author vcard"><span class="byline-name fn" itemprop="author">
+                VilniusPy
+            </span></p>
+            <p class="dateline">
+            <a href="posts/vilniuspy-7-concurrency-games/" rel="bookmark">
+            <time class="published dt-published" datetime="2017-03-28T13:09:28+03:00" itemprop="datePublished" title="2017-03-28 13:09">2017-03-28 13:09</time></a>
+            </p>
         </div>
-    </header>
-    <div class="e-content entry-content">
+    </header><div class="e-content entry-content">
     <div>
 <p>Hi Python Charmers,</p>
 <p>After last time success where "on paper" over 80 people turned up, we are completely overwhelmed by the size of Python community in Vilnius and are super excited about it!</p>
@@ -339,16 +384,17 @@
 </div>
 </div>
     </div>
-    </article>
-    <article class="h-entry post-text">
-    <header>
-        <h1 class="p-name entry-title"><a href="posts/slides-from-vilniuspy-6.html" class="u-url">Slides from VilniusPy #6</a></h1>
+    </article><article class="h-entry post-text" itemscope="itemscope" itemtype="http://schema.org/Article"><header><h1 class="p-name entry-title"><a href="posts/slides-from-vilniuspy-6/" class="u-url">Slides from VilniusPy #6</a></h1>
         <div class="metadata">
-            <p class="byline author vcard"><span class="byline-name fn">VilniusPy</span></p>
-            <p class="dateline"><a href="posts/slides-from-vilniuspy-6.html" rel="bookmark"><time class="published dt-published" datetime="2017-03-16T11:40:00+03:00" title="2017-03-16 11:40">2017-03-16 11:40</time></a></p>
+            <p class="byline author vcard"><span class="byline-name fn" itemprop="author">
+                VilniusPy
+            </span></p>
+            <p class="dateline">
+            <a href="posts/slides-from-vilniuspy-6/" rel="bookmark">
+            <time class="published dt-published" datetime="2017-03-16T11:40:00+03:00" itemprop="datePublished" title="2017-03-16 11:40">2017-03-16 11:40</time></a>
+            </p>
         </div>
-    </header>
-    <div class="e-content entry-content">
+    </header><div class="e-content entry-content">
     <div>
 <p>Return of VilniusPy was a tremendous success. More than 70 people came to listen for 2 talks presented by Karolis and Justas.</p>
 <p>If you want to see those slides again or you've missed the meetup you can review them here:</p>
@@ -360,78 +406,23 @@
 </div>
     </div>
     </article>
-    <article class="h-entry post-text">
-    <header>
-        <h1 class="p-name entry-title"><a href="posts/vilniuspy-6-the-return.html" class="u-url">VilniusPy #6: The Return</a></h1>
-        <div class="metadata">
-            <p class="byline author vcard"><span class="byline-name fn">VilniusPy</span></p>
-            <p class="dateline"><a href="posts/vilniuspy-6-the-return.html" rel="bookmark"><time class="published dt-published" datetime="2017-02-15T11:06:28+03:00" title="2017-02-15 11:06">2017-02-15 11:06</time></a></p>
-        </div>
-    </header>
-    <div class="e-content entry-content">
-    <div>
-<p>Hi fellow Python Charmers,</p>
-<p>We are excited to announce that after over a year long break VilniusPy is back!</p>
-<div class="section" id="agenda">
-<h2>Agenda</h2>
-<ol class="arabic simple">
-<li><strong>“Why learn Python in 2017?” (EN) Karolis Ramanauskas</strong></li>
-</ol>
-<p>Karolis Ramanauskas will be giving a semi-motivational talk about why today is a great time to learn Python. He will give an overview of the current state of the language, its application areas, and in the end will discuss Python’s future.</p>
-<ol class="arabic simple" start="2">
-<li><strong>“Python - the last language you’ll need to learn” (EN) Justas Trimailovas</strong></li>
-</ol>
-<p>A more technical walkthrough about Python’s extensive standard library and great ecosystem of third party libraries.</p>
-<ol class="arabic simple" start="3">
-<li><strong>Continue the meetup at a nearby bar for open discussion</strong></li>
-</ol>
-</div>
-<div class="section" id="where">
-<h2>Where?</h2>
-<p>Thanks UBER for letting us host the meeting in their Vilnius office at Lvovo st. 25, 8th floor.</p>
-</div>
-<div class="section" id="when">
-<h2>When?</h2>
-<p>March 15th, 19:00</p>
-</div>
-<div class="section" id="invite-for-speakers">
-<h2>Invite for speakers</h2>
-<p>Want to give a talk at VilniusPy? Contact organisers at <a class="reference external" href="mailto:info@vilniuspy.lt/">info@vilniuspy.lt</a>, “Contact” button to the left or #vilniuspy channel on UserGroups slack!</p>
-</div>
-<div class="section" id="registration">
-<h2>Registration</h2>
-<p>Registration at <a class="reference external" href="https://www.meetup.com/vilniuspy/events/237721907/">meetup.com/vilniuspy</a>.</p>
-</div>
-</div>
-    </div>
-    </article>
 </div>
 
-        <nav class="postindexpager">
-        <ul class="pager">
-            <li class="next">
-                <a href="index-1.html" rel="next">Older posts</a>
+        <nav class="postindexpager"><ul class="pager">
+<li class="next">
+                <a href="index-2.html" rel="next">Older posts</a>
             </li>
-        </ul>
-        </nav>
-
-
-
-
-
-
-         </main>
-         
-        <footer id="footer" role="contentinfo">
-            <p>Contents © 2018         <a href="mailto:info@vilniuspy.lt">VilniusPy</a> - Powered by         <a href="http://getnikola.com" rel="nofollow">Nikola</a>         </p>
+        </ul></nav></main><footer id="footer"><p>Contents © 2019         <a href="mailto:info@vilniuspy.lt">VilniusPy</a> - Powered by         <a href="http://getnikola.com" rel="nofollow">Nikola</a>         </p>
             
         </footer>
-
-    </div>
+</div>
     
-    
-    
-    
-
+            <script src="assets/js/all-nocdn.js"></script><script>
+    baguetteBox.run('div#content', {
+        ignoreClass: 'islink',
+        captions: function(element) {
+            return element.getElementsByTagName('img')[0].alt;
+    }});
+    </script>
 </body>
 </html>

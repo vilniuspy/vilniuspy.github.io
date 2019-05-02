@@ -1,139 +1,248 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
-  <loc>http://vilniuspy.lt/2015/index.html</loc>
-  <lastmod>2018-02-21</lastmod>
+  <loc>http://vilniuspy.lt/</loc>
+  <lastmod>2019-05-02T13:22:00Z</lastmod>
  </url>
  <url>
-  <loc>http://vilniuspy.lt/2017/index.html</loc>
-  <lastmod>2018-02-21</lastmod>
+  <loc>http://vilniuspy.lt/2015/</loc>
+  <lastmod>2019-05-02T13:22:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://vilniuspy.lt/2017/</loc>
+  <lastmod>2019-05-02T13:22:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://vilniuspy.lt/2019/</loc>
+  <lastmod>2019-05-02T13:22:00Z</lastmod>
  </url>
  <url>
   <loc>http://vilniuspy.lt/archive.html</loc>
-  <lastmod>2018-02-21</lastmod>
+  <lastmod>2019-05-02T13:22:00Z</lastmod>
  </url>
  <url>
-  <loc>http://vilniuspy.lt/categories/index.html</loc>
-  <lastmod>2018-02-21</lastmod>
+  <loc>http://vilniuspy.lt/categories/</loc>
+  <lastmod>2019-05-02T13:22:00Z</lastmod>
  </url>
  <url>
   <loc>http://vilniuspy.lt/categories/meetup-announcement.html</loc>
-  <lastmod>2018-02-21</lastmod>
+  <lastmod>2019-05-02T13:22:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://vilniuspy.lt/categories/meetup-announcement/</loc>
+  <lastmod>2019-05-02T13:22:00Z</lastmod>
  </url>
  <url>
   <loc>http://vilniuspy.lt/categories/meetup-slides.html</loc>
-  <lastmod>2018-02-21</lastmod>
+  <lastmod>2019-05-02T13:22:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://vilniuspy.lt/categories/meetup-slides/</loc>
+  <lastmod>2019-05-02T13:22:00Z</lastmod>
  </url>
  <url>
   <loc>http://vilniuspy.lt/index-1.html</loc>
-  <lastmod>2018-02-21</lastmod>
+  <lastmod>2019-05-02T13:22:00Z</lastmod>
  </url>
  <url>
-  <loc>http://vilniuspy.lt/index.html</loc>
-  <lastmod>2018-02-21</lastmod>
+  <loc>http://vilniuspy.lt/index-2.html</loc>
+  <lastmod>2019-05-02T13:22:00Z</lastmod>
  </url>
  <url>
   <loc>http://vilniuspy.lt/posts/pyconlt-2015.html</loc>
-  <lastmod>2018-02-21</lastmod>
+  <lastmod>2019-05-02T13:22:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://vilniuspy.lt/posts/pyconlt-2015/</loc>
+  <lastmod>2019-05-02T13:22:00Z</lastmod>
  </url>
  <url>
   <loc>http://vilniuspy.lt/posts/slides-from-the-first-meetup.html</loc>
-  <lastmod>2018-02-21</lastmod>
+  <lastmod>2019-05-02T13:22:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://vilniuspy.lt/posts/slides-from-the-first-meetup/</loc>
+  <lastmod>2019-05-02T13:22:00Z</lastmod>
  </url>
  <url>
   <loc>http://vilniuspy.lt/posts/slides-from-vilniuspy-12.html</loc>
-  <lastmod>2018-02-21</lastmod>
+  <lastmod>2019-05-02T13:22:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://vilniuspy.lt/posts/slides-from-vilniuspy-12/</loc>
+  <lastmod>2019-05-02T13:22:00Z</lastmod>
  </url>
  <url>
   <loc>http://vilniuspy.lt/posts/slides-from-vilniuspy-2.html</loc>
-  <lastmod>2018-02-21</lastmod>
+  <lastmod>2019-05-02T13:22:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://vilniuspy.lt/posts/slides-from-vilniuspy-2/</loc>
+  <lastmod>2019-05-02T13:22:00Z</lastmod>
  </url>
  <url>
   <loc>http://vilniuspy.lt/posts/slides-from-vilniuspy-3.html</loc>
-  <lastmod>2018-02-21</lastmod>
+  <lastmod>2019-05-02T13:22:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://vilniuspy.lt/posts/slides-from-vilniuspy-3/</loc>
+  <lastmod>2019-05-02T13:22:00Z</lastmod>
  </url>
  <url>
   <loc>http://vilniuspy.lt/posts/slides-from-vilniuspy-6.html</loc>
-  <lastmod>2018-02-21</lastmod>
+  <lastmod>2019-05-02T13:22:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://vilniuspy.lt/posts/slides-from-vilniuspy-6/</loc>
+  <lastmod>2019-05-02T13:22:00Z</lastmod>
  </url>
  <url>
   <loc>http://vilniuspy.lt/posts/slides-from-vilniuspy-8.html</loc>
-  <lastmod>2018-02-21</lastmod>
+  <lastmod>2019-05-02T13:22:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://vilniuspy.lt/posts/slides-from-vilniuspy-8/</loc>
+  <lastmod>2019-05-02T13:22:00Z</lastmod>
  </url>
  <url>
   <loc>http://vilniuspy.lt/posts/vilniuspy-1-lets-talk-python.html</loc>
-  <lastmod>2018-02-21</lastmod>
+  <lastmod>2019-05-02T13:22:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://vilniuspy.lt/posts/vilniuspy-1-lets-talk-python/</loc>
+  <lastmod>2019-05-02T13:22:00Z</lastmod>
  </url>
  <url>
   <loc>http://vilniuspy.lt/posts/vilniuspy-10.html</loc>
-  <lastmod>2018-02-21</lastmod>
+  <lastmod>2019-05-02T13:22:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://vilniuspy.lt/posts/vilniuspy-10/</loc>
+  <lastmod>2019-05-02T13:22:00Z</lastmod>
  </url>
  <url>
   <loc>http://vilniuspy.lt/posts/vilniuspy-11.html</loc>
-  <lastmod>2018-02-21</lastmod>
+  <lastmod>2019-05-02T13:22:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://vilniuspy.lt/posts/vilniuspy-11/</loc>
+  <lastmod>2019-05-02T13:22:00Z</lastmod>
  </url>
  <url>
   <loc>http://vilniuspy.lt/posts/vilniuspy-12.html</loc>
-  <lastmod>2018-02-21</lastmod>
+  <lastmod>2019-05-02T13:22:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://vilniuspy.lt/posts/vilniuspy-12/</loc>
+  <lastmod>2019-05-02T13:22:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://vilniuspy.lt/posts/vilniuspy-19/</loc>
+  <lastmod>2019-05-02T13:22:00Z</lastmod>
  </url>
  <url>
   <loc>http://vilniuspy.lt/posts/vilniuspy-2.html</loc>
-  <lastmod>2018-02-21</lastmod>
+  <lastmod>2019-05-02T13:22:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://vilniuspy.lt/posts/vilniuspy-2/</loc>
+  <lastmod>2019-05-02T13:22:00Z</lastmod>
  </url>
  <url>
   <loc>http://vilniuspy.lt/posts/vilniuspy-3.html</loc>
-  <lastmod>2018-02-21</lastmod>
+  <lastmod>2019-05-02T13:22:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://vilniuspy.lt/posts/vilniuspy-3/</loc>
+  <lastmod>2019-05-02T13:22:00Z</lastmod>
  </url>
  <url>
   <loc>http://vilniuspy.lt/posts/vilniuspy-4-celery.html</loc>
-  <lastmod>2018-02-21</lastmod>
+  <lastmod>2019-05-02T13:22:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://vilniuspy.lt/posts/vilniuspy-4-celery/</loc>
+  <lastmod>2019-05-02T13:22:00Z</lastmod>
  </url>
  <url>
   <loc>http://vilniuspy.lt/posts/vilniuspy-5-summer-drinkup.html</loc>
-  <lastmod>2018-02-21</lastmod>
+  <lastmod>2019-05-02T13:22:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://vilniuspy.lt/posts/vilniuspy-5-summer-drinkup/</loc>
+  <lastmod>2019-05-02T13:22:00Z</lastmod>
  </url>
  <url>
   <loc>http://vilniuspy.lt/posts/vilniuspy-6-slides.html</loc>
-  <lastmod>2018-02-21</lastmod>
+  <lastmod>2019-05-02T13:22:00Z</lastmod>
  </url>
  <url>
   <loc>http://vilniuspy.lt/posts/vilniuspy-6-the-return.html</loc>
-  <lastmod>2018-02-21</lastmod>
+  <lastmod>2019-05-02T13:22:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://vilniuspy.lt/posts/vilniuspy-6-the-return/</loc>
+  <lastmod>2019-05-02T13:22:00Z</lastmod>
  </url>
  <url>
   <loc>http://vilniuspy.lt/posts/vilniuspy-6.html</loc>
-  <lastmod>2018-02-21</lastmod>
+  <lastmod>2019-05-02T13:22:00Z</lastmod>
  </url>
  <url>
   <loc>http://vilniuspy.lt/posts/vilniuspy-7-concurrency-games.html</loc>
-  <lastmod>2018-02-21</lastmod>
+  <lastmod>2019-05-02T13:22:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://vilniuspy.lt/posts/vilniuspy-7-concurrency-games/</loc>
+  <lastmod>2019-05-02T13:22:00Z</lastmod>
  </url>
  <url>
   <loc>http://vilniuspy.lt/posts/vilniuspy-8-asynchronous-websockets-deep-learning.html</loc>
-  <lastmod>2018-02-21</lastmod>
+  <lastmod>2019-05-02T13:22:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://vilniuspy.lt/posts/vilniuspy-8-asynchronous-websockets-deep-learning/</loc>
+  <lastmod>2019-05-02T13:22:00Z</lastmod>
  </url>
  <url>
   <loc>http://vilniuspy.lt/posts/vilniuspy-8-asynchronous-websockets.html</loc>
-  <lastmod>2018-02-21</lastmod>
+  <lastmod>2019-05-02T13:22:00Z</lastmod>
  </url>
  <url>
   <loc>http://vilniuspy.lt/posts/vilniuspy-9.html</loc>
-  <lastmod>2018-02-21</lastmod>
+  <lastmod>2019-05-02T13:22:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://vilniuspy.lt/posts/vilniuspy-9/</loc>
+  <lastmod>2019-05-02T13:22:00Z</lastmod>
  </url>
  <url>
   <loc>http://vilniuspy.lt/posts/were-up.html</loc>
-  <lastmod>2018-02-21</lastmod>
+  <lastmod>2019-05-02T13:22:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://vilniuspy.lt/posts/were-up/</loc>
+  <lastmod>2019-05-02T13:22:00Z</lastmod>
  </url>
  <url>
   <loc>http://vilniuspy.lt/stories/about.html</loc>
-  <lastmod>2018-02-21</lastmod>
+  <lastmod>2019-05-02T13:22:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://vilniuspy.lt/stories/about/</loc>
+  <lastmod>2019-05-02T13:22:00Z</lastmod>
  </url>
  <url>
   <loc>http://vilniuspy.lt/stories/contact.html</loc>
-  <lastmod>2018-02-21</lastmod>
+  <lastmod>2019-05-02T13:22:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://vilniuspy.lt/stories/contact/</loc>
+  <lastmod>2019-05-02T13:22:00Z</lastmod>
  </url>
 </urlset>

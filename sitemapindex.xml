@@ -1,23 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <sitemapindex
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
   <loc>http://vilniuspy.lt/categories/meetup-announcement.xml</loc>
-  <lastmod>2018-02-21</lastmod>
+  <lastmod>2019-05-02T13:22:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://vilniuspy.lt/categories/meetup-slides.xml</loc>
-  <lastmod>2018-02-21</lastmod>
+  <lastmod>2019-05-02T13:22:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://vilniuspy.lt/rss.xml</loc>
-  <lastmod>2018-02-21</lastmod>
+  <lastmod>2019-05-02T13:22:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://vilniuspy.lt/sitemap.xml</loc>
-  <lastmod>2018-02-21</lastmod>
+  <lastmod>2019-05-02T13:22:00Z</lastmod>
  </sitemap>
 </sitemapindex>
