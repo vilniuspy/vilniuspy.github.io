@@ -122,8 +122,8 @@ TRANSLATIONS_PATTERN = "{path}.{lang}.{ext}"
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ("/", "Home"),
-        ("/stories/about.html", "About"),
-        ("/stories/contact.html", "Contact"),
+        ("/stories/about/index.html", "About"),
+        ("/stories/contact/index.html", "Contact"),
         ("/archive.html", "Archive"),
         ("/rss.xml", "RSS feed"),
     ),
@@ -148,9 +148,10 @@ TIMEZONE = "Europe/Vilnius"
 # Note that this does not affect DATE_FORMAT.
 # FORCE_ISO8601 = False
 
-# Date format used to display post dates.
-# (str used by datetime.datetime.strftime)
-DATE_FORMAT = '%Y-%m-%d %H:%M'
+# Date format used to display post dates. (translatable)
+# Used by babel.dates, CLDR style: http://cldr.unicode.org/translation/date-time
+# You can also use 'full', 'long', 'medium', or 'short'
+DATE_FORMAT = 'YYYY-MM-dd HH:mm'
 
 # Date format used to display post dates, if local dates are used.
 # (str used by moment.js)
@@ -861,7 +862,7 @@ SOCIAL_BUTTONS_CODE = ''
 
 # If you hate "Filenames with Capital Letters and Spaces.md", you should
 # set this to true.
-UNSLUGIFY_TITLES = True
+FILE_METADATA_UNSLUGIFY_TITLES = True
 
 # Additional metadata that is added to a post when creating a new_post
 # ADDITIONAL_METADATA = {}

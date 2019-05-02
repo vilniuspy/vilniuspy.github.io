@@ -9,11 +9,14 @@ NIKOLA = $(PYBIN)/nikola
 environ: $(ENV)/.done
 
 $(PYTHON):
-	virtualenv $(ENV)
+	python -m venv $(ENV)
 
 $(ENV)/.done: $(PYTHON) requirements.txt
 	$(PIP) install -r requirements.txt
 	touch $(ENV)/.done
+
+requirements.txt: $(PYTHON) requirements.in
+	$(PYBIN)/pip-compile requirements.in -o requirements.txt
 
 .PHONY: new_post
 new_post: environ
