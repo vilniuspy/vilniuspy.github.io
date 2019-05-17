@@ -1,6 +1,5 @@
 .. title: VilniusPy #19: Video streaming and multiple dispatch
 .. slug: vilniuspy-19
-.. date: 2017-09-10 13:40:28 UTC+03:00
 .. date: 2019-05-02 11:46:00 UTC+03:00
 .. tags: meetup announcement
 .. category:
@@ -34,6 +33,8 @@ Agenda
   the web, and how to improve the performance of video by using streaming
   instead of static videos.
 
+  `Slides <https://www.slideshare.net/dougsillars/vilnius-py-video>`__.
+
 - **Mantas Zimnickas: Multiple dispatch in Python**
 
   Probably most of us understand and use object-oriented paradigm, but is this
@@ -42,6 +43,8 @@ Agenda
   In this talk, Mantas will discuss how object-oriented programming can be
   transformed using multiple dispatch paradigm. What benefits we can get from
   it and into what traps we can fall.
+
+  `Slides </slides/multipledispatch.pdf>`__.
 
 
 Where?
